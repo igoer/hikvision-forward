@@ -41,5 +41,6 @@ main：表示海康视频流的主码流输出，清晰
 选择一个可以播放RTSP视频流的播放软件，一般推荐使用 VLC media player 播放器进行播放。
 播放的流媒体地址为：
 ```
-rtsp://ip:8554/name
+rtsp://easydarwin服务器ip:8554/name
 ```
+easydarwin 服务默认使用 8554 端口。
