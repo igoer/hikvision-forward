@@ -19,16 +19,23 @@ easydarwin -d -c easydarwin.xml
 </Devices>
 ```
 其中每一个< Device >为需要进行转发的RTSP流媒体配置
+
 id：一个不重复的编号
+
 name：该流媒体转发后的名称，后续通过该名称进行播放
 
 url 属性说明:
+
 username：登录摄像头的账户
+
 password：登录摄像头的密码
+
 ip：摄像头的ip地址
 
 sub：表示海康视频流的子码流输出，不是很清晰
+
 main：表示海康视频流的主码流输出，清晰
+
 
 ##转发播放
 选择一个可以播放RTSP视频流的播放软件，一般推荐使用 VLC media player 播放器进行播放。
