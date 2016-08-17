@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="GB2312"?>
 <Devices>
-	<Device id="0" name="wushan" url="rtsp://admin:12345@218.206.13.27/h264/ch1/sub/av_stream"/>
-		
-	<Device id="1" name="fengjie" url="rtsp://admin:12345@218.201.60.46/h264/ch1/sub/av_stream"/>
 
-	<Device id="2" name="fuling" url="rtsp://admin:12345@218.201.51.244/h264/ch1/sub/av_stream"/>
 </Devices>
